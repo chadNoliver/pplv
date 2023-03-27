@@ -1,4 +1,7 @@
-# Pplv
+# Pplv - Repository for exploring the Programming Pheonix LiveView book by Tate and DeBenedetto published by The Programatic Programmers
+https://pragprog.com/titles/liveview/programming-phoenix-liveview/ 
+
+
 
 To start your Phoenix server:
 
